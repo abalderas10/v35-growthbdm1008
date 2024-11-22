@@ -1,0 +1,114 @@
+{
+  "Header": {
+    "home": "Home",
+    "expansionStrategies": "Expansion Strategies",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "HeroSection": {
+    "title": "Welcome to Growth Business Development",
+    "subtitle": "We understand that each project is a unique opportunity to transform and grow your business.",
+    "cta": "Explore Our Services"
+  },
+  "GrowthDeveloper": {
+    "title": "A Growth Business Developer",
+    "description": "A Growth Business Developer is a professional specialized in identifying and creating growth opportunities for companies. Their role spans from strategic planning to implementing initiatives that drive business development.",
+    "cta": "Schedule a Meeting"
+  },
+  "ExpansionStrategies": {
+    "title": "Expansion Strategies in Mexico",
+    "description": "Our services are designed to drive your business growth in the Mexican market, leveraging unique opportunities and overcoming specific challenges.",
+    "strategies": {
+      "marketAnalysis": "Market analysis",
+      "strategicAlliances": "Strategic alliance development",
+      "processOptimization": "Business process optimization",
+      "innovativeTech": "Innovative technology implementation"
+    },
+    "cta": "Explore Opportunities"
+  },
+  "GrowthIntelligence": {
+    "title": "Growth Intelligence: Driving Growth",
+    "subtitle": "Intelligent Automation for Your Business",
+    "description": "Growth Intelligence is our intelligent automation solution designed to optimize processes, analyze data, and generate valuable insights to drive your business growth.",
+    "cta": "Discover Growth Intelligence",
+    "features": {
+      "webDev": "Professional Web Development",
+      "aiAgents": "AI Agents",
+      "automation": "Process Automation"
+    }
+  },
+  "AliEstGrowth": {
+    "title": "AliEst-Growth",
+    "description": "AliEst-Growth is our group of companies specialized in creating and strengthening strategic alliances. We leverage unique synergies to drive mutual growth and generate long-term value for our partners.",
+    "benefits": {
+      "network": "Access to a diverse network of strategic partners",
+      "collaboration": "Cross-sector collaboration opportunities",
+      "resources": "Shared resources and economies of scale",
+      "innovation": "Collaborative innovation and new market development"
+    },
+    "cta": "Build Alliances"
+  },
+  "BlogSection": {
+    "title": "Growing Market in Mexico",
+    "readMore": "Read More",
+    "categories": {
+      "all": "All",
+      "architecture": "Architecture",
+      "construction": "Construction",
+      "engineering": "Engineering",
+      "interiors": "Corporate Interiors",
+      "business": "Business Development",
+      "scrum": "Scrum and Agile Methodologies"
+    }
+  },
+  "CTASection": {
+    "title": "Ready to boost your business?",
+    "description": "Discover how our growth strategies and alliances can take your company to the next level.",
+    "cta": "Schedule a meeting today and let's work on your next big project"
+  },
+  "Newsletter": {
+    "title": "Subscribe to Our Newsletter",
+    "description": "Stay informed about the latest trends and growth opportunities.",
+    "placeholder": "Your email",
+    "button": "Subscribe",
+    "success": "Thank you for subscribing!",
+    "error": "An error occurred. Please try again."
+  },
+  "Footer": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "subscribeButton": "Subscribe",
+    "copyright": "© {year} Growth Business Development México. All rights reserved.",
+    "home": "Home",
+    "services": "Services",
+    "expansionStrategies": "Expansion Strategies",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog",
+    "contactInfo": {
+      "email": "Email: contact@growthbdm.com",
+      "phone": "Phone: +52 (55) 1234 5678",
+      "address": "Mexico City, Mexico"
+    }
+  },
+  "AgenteBD": {
+    "title": "BD Agent",
+    "placeholder": "Type your message...",
+    "welcomeMessage": "Hi! I'm the BD Agent, how can I help you today? I'm here to assist you with information about our services, schedule meetings, or answer any questions you may have.",
+    "send": "Send",
+    "typing": "Typing..."
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send message",
+      "success": "Message sent successfully",
+      "error": "Error sending message"
+    }
+  }
+}

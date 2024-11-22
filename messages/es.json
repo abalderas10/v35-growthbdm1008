@@ -1,0 +1,114 @@
+{
+  "Header": {
+    "home": "Inicio",
+    "expansionStrategies": "Estrategias de Expansión",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "HeroSection": {
+    "title": "Bienvenido a Growth Business Development",
+    "subtitle": "Entendemos que cada proyecto es una oportunidad única para transformar y hacer crecer tu negocio.",
+    "cta": "Explora Nuestros Servicios"
+  },
+  "GrowthDeveloper": {
+    "title": "Un Growth Business Developer",
+    "description": "Un Growth Business Developer es un profesional especializado en identificar y crear oportunidades de crecimiento para las empresas. Su rol abarca desde la planificación estratégica hasta la implementación de iniciativas que impulsan el desarrollo del negocio.",
+    "cta": "Agenda una Reunión"
+  },
+  "ExpansionStrategies": {
+    "title": "Estrategias de Expansión en México",
+    "description": "Nuestros servicios están diseñados para impulsar el crecimiento de su negocio en el mercado mexicano, aprovechando oportunidades únicas y superando desafíos específicos.",
+    "strategies": {
+      "marketAnalysis": "Análisis de mercado",
+      "strategicAlliances": "Desarrollo de alianzas estratégicas",
+      "processOptimization": "Optimización de procesos de negocio",
+      "innovativeTech": "Implementación de tecnologías innovadoras"
+    },
+    "cta": "Explora Oportunidades"
+  },
+  "GrowthIntelligence": {
+    "title": "Growth Intelligence: Impulsando el Crecimiento",
+    "subtitle": "Automatización Inteligente para tu Negocio",
+    "description": "Growth Intelligence es nuestra solución de automatización inteligente diseñada para optimizar procesos, analizar datos y generar insights valiosos para impulsar el crecimiento de su negocio.",
+    "cta": "Descubre Growth Intelligence",
+    "features": {
+      "webDev": "Desarrollo Web Profesional",
+      "aiAgents": "Agentes de IA",
+      "automation": "Automatización de Procesos"
+    }
+  },
+  "AliEstGrowth": {
+    "title": "AliEst-Growth",
+    "description": "AliEst-Growth es nuestro grupo de empresas especializadas en crear y fortalecer alianzas estratégicas. Aprovechamos sinergias únicas para impulsar el crecimiento mutuo y generar valor a largo plazo para nuestros socios.",
+    "benefits": {
+      "network": "Acceso a una red diversa de socios estratégicos",
+      "collaboration": "Oportunidades de colaboración intersectorial",
+      "resources": "Recursos compartidos y economías de escala",
+      "innovation": "Innovación colaborativa y desarrollo de nuevos mercados"
+    },
+    "cta": "Construye Alianzas"
+  },
+  "BlogSection": {
+    "title": "Mercado en Crecimiento en México",
+    "readMore": "Leer más",
+    "categories": {
+      "all": "Todos",
+      "architecture": "Arquitectura",
+      "construction": "Construcción",
+      "engineering": "Ingenierías",
+      "interiors": "Interiores Corporativos",
+      "business": "Business Development",
+      "scrum": "Scrum y Metodologías Ágiles"
+    }
+  },
+  "CTASection": {
+    "title": "¿Listo para impulsar tu negocio?",
+    "description": "Descubre cómo nuestras estrategias de crecimiento y alianzas pueden llevar tu empresa al siguiente nivel.",
+    "cta": "Agenda una reunión hoy y trabajemos en tu próximo gran proyecto"
+  },
+  "Newsletter": {
+    "title": "Suscríbete a Nuestro Boletín",
+    "description": "Mantente informado sobre las últimas tendencias y oportunidades de crecimiento.",
+    "placeholder": "Tu correo electrónico",
+    "button": "Suscribirse",
+    "success": "¡Gracias por suscribirte!",
+    "error": "Ocurrió un error. Por favor, intenta nuevamente."
+  },
+  "Footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "newsletter": "Boletín Informativo",
+    "subscribeButton": "Suscribirse",
+    "copyright": "© {year} Growth Business Development México. Todos los derechos reservados.",
+    "home": "Inicio",
+    "services": "Servicios",
+    "expansionStrategies": "Estrategias de Expansión",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog",
+    "contactInfo": {
+      "email": "Email: contacto@growthbdm.com",
+      "phone": "Teléfono: +52 (55) 1234 5678",
+      "address": "Ciudad de México, México"
+    }
+  },
+  "AgenteBD": {
+    "title": "Agente BD",
+    "placeholder": "Escribe tu mensaje...",
+    "welcomeMessage": "¡Hola! Soy el Agente BD, ¿cómo puedo ayudarte hoy? Estoy aquí para asistirte con información sobre nuestros servicios, agendar reuniones o responder cualquier pregunta que tengas.",
+    "send": "Enviar",
+    "typing": "Escribiendo..."
+  },
+  "Contact": {
+    "title": "Contáctanos",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "company": "Empresa",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "success": "Mensaje enviado exitosamente",
+      "error": "Error al enviar el mensaje"
+    }
+  }
+}
